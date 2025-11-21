@@ -1,0 +1,75 @@
+/* Estilo general del cuerpo de la página */
+body {
+  background-color: #1a1a1a; /* Un fondo negro un poco más suave */
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* Estilo para la tarjeta del profesor */
+.profesor-card {
+  background-color: #282c34;
+  border: 1px solid #444;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto; /* El 'auto' en los costados centra la tarjeta */
+  width: 350px;
+  text-align: left; /* Alineamos el texto de la tarjeta a la izquierda */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.profesor-card h2 {
+  color: #ffd700; /* Nuestro amarillo energético */
+  margin-top: 0;
+}
+
+.profesor-card p {
+  color: #ccc;
+  line-height: 1.5;
+}
+.lista-profesores {
+  /* Estas 3 líneas son la magia de Flexbox */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  /* Esto es solo para darle un poco de espacio */
+  padding: 20px;
+  gap: 20px; /* Añade un espacio uniforme entre las tarjetas */
+}
+.profesor-card-link {
+  text-decoration: none; /* Le quita el subrayado */
+  color: inherit; /* Hereda el color del texto de su padre */
+}
+.homepage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+.search-form {
+  display: flex;
+  margin-top: 20px;
+}
+
+.search-input {
+  padding: 10px 15px;
+  font-size: 16px;
+  border: 1px solid #444;
+  border-radius: 5px 0 0 5px;
+  background-color: #333;
+  color: white;
+  width: 300px;
+}
+
+.search-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: 1px solid #ffd700;
+  background-color: #ffd700;
+  color: #1a1a1a;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
