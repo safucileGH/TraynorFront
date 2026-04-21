@@ -50,3 +50,12 @@ The app runs on `http://localhost:3000`
 
 ## 🏗️ Project Architecture
 
+## 👨‍💻 Author
+
+**Santiago** — Full Stack Developer  
+[GitHub](https://github.com/safucileGH) • 
+[LinkedIn]([https://www.linkedin.com/in/TU-USUARIO-ACÁ](https://www.linkedin.com/in/santiago-fucile-139a77324/))
+
+---
+*Built with React + Express + MySQL*
+
