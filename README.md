@@ -5,10 +5,10 @@ Traynor is a web platform that connects fitness professionals
 looking for personalized training.
 
 ## 🚀 Live Demo
-> Coming soon — deploying on Vercel
+
 
 ## 📸 Screenshots
-> (Add screenshots of your app here)
+
 
 ## ✨ Features
 
