@@ -1,16 +1,12 @@
-# 🏋️ Traynor — Fitness Professional Marketplace
+#  Traynor — Fitness Professional Marketplace
 
 Traynor is a web platform that connects fitness professionals 
 (boxing, yoga, crossfit, bodybuilding, and more) with clients 
 looking for personalized training.
 
-## 🚀 Live Demo
 
 
-## 📸 Screenshots
-
-
-## ✨ Features
+##  Features
 
 - 🔍 Search trainers by name or training type
 - 👤 Trainer profile cards with full details
@@ -18,7 +14,7 @@ looking for personalized training.
 - ✅ Trainer approval workflow before appearing in search
 - 📱 Responsive design for mobile and desktop
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 - React.js
@@ -30,7 +26,7 @@ looking for personalized training.
 - MySQL (relational database)
 - JWT (JSON Web Tokens) for admin authentication
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js v18+
@@ -54,7 +50,7 @@ The app runs on `http://localhost:3000`
 
 **Santiago** — Full Stack Developer  
 [GitHub](https://github.com/safucileGH) • 
-[LinkedIn]([https://www.linkedin.com/in/TU-USUARIO-ACÁ](https://www.linkedin.com/in/santiago-fucile-139a77324/))
+[LinkedIn](https://www.linkedin.com/in/santiago-fucile-dev/)
 
 ---
 *Built with React + Express + MySQL*
